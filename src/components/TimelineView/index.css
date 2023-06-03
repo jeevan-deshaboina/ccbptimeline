@@ -1,0 +1,14 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.app-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  text-align: center;
+}

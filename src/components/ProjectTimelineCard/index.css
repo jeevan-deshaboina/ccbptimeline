@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.imageUrl {
+  width: 100%;
+}
+.heading-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.calendar-container {
+  display: flex;
+  align-items: center;
+}
